@@ -7,6 +7,7 @@
 * [10 septembre 2019](https://edisondelorgues.github.io/Math/190910)
 * [12 septembre 2019](https://edisondelorgues.github.io/Math/190912)
 * [17 septembre 2019](https://edisondelorgues.github.io/Math/190917)
+* [19 septembre 2019](https://edisondelorgues.github.io/Math/190919)
 
 
 
