@@ -11,6 +11,7 @@ https://edisondelorgues.github.io/Math/
 * [17 septembre 2019](https://edisondelorgues.github.io/Math/190917)
 * [19 septembre 2019](https://edisondelorgues.github.io/Math/190919)
 * [24 septembre 2019](https://edisondelorgues.github.io/Math/190924)
-
+* [26 septembre 2019](https://edisondelorgues.github.io/Math/190926)
+* [1 octobre 2019](https://edisondelorgues.github.io/Math/191001)
 * [Contrôle du 3 octobre 2019](https://edisondelorgues.github.io/Math/191003)
 
