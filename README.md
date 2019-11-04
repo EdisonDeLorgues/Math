@@ -4,8 +4,12 @@ https://edisondelorgues.github.io/Math/
 
 ## Plan des séances:
 
+* [19 novembre 2019](https://edisondelorgues.github.io/Math/191119) Contrôle 2.
+* [14 novembre 2019](https://edisondelorgues.github.io/Math/191114)
+* [12 novembre 2019](https://edisondelorgues.github.io/Math/191112)
+* [07 novembre 2019](https://edisondelorgues.github.io/Math/191107)
 * [05 novembre 2019](https://edisondelorgues.github.io/Math/191105)
-* 17 octobre 2019 Contrôle de rattrapage
+* 17 octobre 2019 Rattrapage du contrôle 1.
 * [15 octobre 2019](https://edisondelorgues.github.io/Math/191015)
 * [10 octobre 2019](https://edisondelorgues.github.io/Math/191010)
 * [8 octobre 2019](https://edisondelorgues.github.io/Math/191008)
