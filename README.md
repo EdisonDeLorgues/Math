@@ -4,6 +4,7 @@ https://edisondelorgues.github.io/Math/
 
 ## Plan des séances:
 
+* [26 novembre 2019](https://edisondelorgues.github.io/Math/191126)
 * [21 novembre 2019: Contrôle 2](https://edisondelorgues.github.io/Math/191121)
 * [19 novembre 2019](https://edisondelorgues.github.io/Math/191119)
 * [14 novembre 2019](https://edisondelorgues.github.io/Math/191114)
