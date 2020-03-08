@@ -1,3 +1,5 @@
+{% include head.html %}
+
 # QCM
 
 L'ensemble des solutions de l'inéquation $x^2-8x+15>0 est
