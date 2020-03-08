@@ -3,8 +3,8 @@
 # QCM
 
 A. L'ensemble des solutions de l'inéquation $x^2-8x+15>0$ est
-1. $]- \infty;3[ \bigcup ]5;+\infty[$
-2. $]- \infty;-1[ \union ]15;+\infty[$
+1. $]- \infty;3[ \cup ]5;+\infty[$
+2. $]- \infty;-1[ \cup ]15;+\infty[$
 3. $]3;5[$
 4. $]-1;15[$
 
