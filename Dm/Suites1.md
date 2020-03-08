@@ -20,3 +20,15 @@ C. $(u_n)$ est la suite géométrique de raison 0.7 telle que $v_0=-5$. On conje
 3. $-\infty$
 4. $-5$
 
+D. $3+4+5+...+10000$ est égal à:
+1. 50005000
+2. 49899999
+3. 49990000 
+4. 50004997
+
+E. $(u_n)$ est la suite arithmétique telle que $u_4=4$ et $u_{10}=19$. On peut affirmer que:
+1. $u_0=8$
+2. $u_7=21.5$
+3. $u_{12}=24$
+4. $u_{14}=-27$
+
